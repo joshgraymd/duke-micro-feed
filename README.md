@@ -1,4 +1,4 @@
-# Duke Clinical Microbiology announcements → RSS
+# RSS feed for Duke Clinical Microbiology announcements
 
 A GitHub Action runs `build_feed.py` daily, scrapes the "Recent Announcements and
 Updates" table on https://clinlabs.duke.edu/clinical-microbiology, and commits
